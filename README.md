@@ -1,4 +1,4 @@
-# Hi, I’m Joe Ogbenna 
+# Hi, I’m Joseph Ogbenna 
 Data Analyst | Marketing Analytics Enthusiast | Basic Python, SQL & PowerBI Practitioner  
 
 Welcome to my GitHub! I build data-driven solutions to uncover insights, optimize marketing strategies, and help businesses make informed decisions.  
