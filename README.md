@@ -1,5 +1,5 @@
 # Hi, I’m Joseph Ogbenna 
-Data Analyst | Marketing Analytics Enthusiast | Basic Python, SQL & PowerBI Practitioner  
+Data Analyst | Marketing Analytics Enthusiast | Python, SQL, Alteryx & PowerBI Specialist 
 
 Welcome to my GitHub! I build data-driven solutions to uncover insights, optimize marketing strategies, and help businesses make informed decisions.  
 
